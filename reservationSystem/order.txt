@@ -1,0 +1,2 @@
+date:1 inteval: stuId:1 stuName:liye roomId:1 status:0
+date:2 inteval: stuId:1 stuName:liye roomId:3 status:-1
